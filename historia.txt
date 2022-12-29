@@ -1,5 +1,6 @@
 Esta es la historia de Charly.
 
 Tengo 23 años y actualemente estoy aprendiente Git.
+Esta es una nueva linea para el segundo commit.
 
 Esto para conseguir un trabajo.
