@@ -1,10 +1,7 @@
 Esta es la historia de Charly.
 
 Tengo 23 años y actualemente estoy aprendiente Git.
-Esta es una nueva linea para el segundo commit.
 
 Esto para conseguir un trabajo.
 
-En camara parece pequeño, pero en realidad es mas pequeños.
-
-Esta es su obra maestra.
+Mañana nos enfocaremos en su historia laboral.
