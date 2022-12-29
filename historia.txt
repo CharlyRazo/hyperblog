@@ -1,4 +1,4 @@
-Esta es la historia de Charly.
+Esta es la vida de Charly.
 
 Tengo 23 años y actualemente estoy aprendiente Git.
 Esta es una nueva linea para el segundo commit.
@@ -6,3 +6,5 @@ Esta es una nueva linea para el segundo commit.
 Esto para conseguir un trabajo.
 
 En camara parece pequeño, pero en realidad es mas pequeños.
+
+Actualmente está haciendo su SS en NLP.
